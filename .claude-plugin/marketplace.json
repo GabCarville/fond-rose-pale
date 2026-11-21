@@ -1,0 +1,5 @@
+{
+  "name": "fond-rose-pale",
+  "owner": { "name": "GabCarville" },
+  "plugins": [{ "name": "fond-rose-pale", "source": "./" }]
+}
